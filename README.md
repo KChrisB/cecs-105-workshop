@@ -2,3 +2,4 @@
 CECS 105 Workshop
 
 I have successfully change my file.
+This is my name.
